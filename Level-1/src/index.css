@@ -1,0 +1,16 @@
+.post {
+  background: #fff;
+  border: 1px solid #ccc;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.post_author {
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.post_text {
+  margin: 0;
+}
