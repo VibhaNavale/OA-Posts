@@ -11,7 +11,7 @@ function CreatePostForm({ onAddPost }) {
   }
 
   return (
-    <form className="create-post-form" onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit}>
       <textarea
         placeholder="Your new post*"
         value={text}
